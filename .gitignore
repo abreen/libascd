@@ -1,0 +1,6 @@
+*.swp
+*.so
+*.o
+.tmp
+test/testall
+test/*.o
